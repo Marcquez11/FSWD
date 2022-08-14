@@ -1,0 +1,30 @@
+p {
+  font-size: 25px;
+  color: aquamarine;
+}
+.tr1,
+.tr2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgreen;
+}
+
+.tr {
+  background-color: blueviolet;
+}
+.tr1 {
+  background-color: blue;
+}
+
+.tr2 {
+  background-color: Green;
+}
+
+#tr3 {
+  background-color: brown;
+}
+.tr4 {
+  background-color: red;
+}
+.tr5 {
+  background-color: yellow;
+}
